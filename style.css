@@ -11,14 +11,12 @@
     background-color: #faa300;  
     padding-left: 200px;
     padding-right: 200px;
-    border: 5px red solid;
 }
 
 .header {
     display: flex;
     padding-top: 15px;
     padding-bottom: 15px;
-    border: 5px red solid;
 }
 
 .title {
@@ -52,3 +50,48 @@ a:hover {
 a:active {
     color: #591f0a;
 }
+
+.hero {
+    display: flex;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.hero-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-left h1 {
+    font-size: 48px;
+    color: #591f0a;
+    font-weight: 900;
+    max-width: 500px;
+}
+
+.hero-left p {
+    font-size: 18px;
+    color:#854d27;
+    max-width: 675px;
+}
+
+.sign-up-container {
+    margin-top: auto;
+    height: auto;
+    width: 57px;
+    padding: 10px 35px 10px 35px;
+    background-color: #bf3100;
+    color: #591f0a;
+    font-weight: 900;
+    border-radius: 7%;
+    border: 2px solid black;
+}
+
+.hero-right img {
+    height: 450px;
+    width: auto;
+    max-width: 100%;
+    border-radius: 1%
+}
+
