@@ -1,2 +1,2 @@
 # barakah
-my first project - a focus tool for Muslims.
+my first project - a landing page for Barakah
