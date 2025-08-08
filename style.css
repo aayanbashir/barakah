@@ -90,27 +90,27 @@ ul {
     width: 57px;
     padding: 10px 35px 10px 35px;
     background-color: #fe4e00;
-    color: white;
+    color: #591f0a;
     font-weight: 900;
     border-radius: 7%;
-    border: 2px solid black;
+    border: 2px solid black ;
 }
 
 .sign-up-container .sign-up a:link {
-    color: white;
+    color: #591f0a;
     text-decoration: none;
 }
 
 .sign-up-container .sign-up a:visited {
-    color:white;
-}
-
-.sign-up-container .sign-up a:hover {
     color:#591f0a;
 }
 
-.sign-up-container .sign-up a:active {
+.sign-up-container .sign-up a:hover {
     color:white;
+}
+
+.sign-up-container .sign-up a:active {
+    color:#591f0a;
 }
 
 /* SECTION TWO */
